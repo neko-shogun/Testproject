@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+.big-box {
+    max-width: 500px;
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 20px;
+}
+.big-box div {
+    width: 250px;
+    height: 300px;
+}
+.right-box {
+    float: right;
+}
+.left-box {
+    float: left;
+}
