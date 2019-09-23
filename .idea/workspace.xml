@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64f2f40a-adc4-4fd0-9483-9cda804941a5" name="Default Changelist" comment="It works a little.&#10;Cyryllyc symbols are not written properly in db.">
+    <list default="true" id="64f2f40a-adc4-4fd0-9483-9cda804941a5" name="Default Changelist" comment="It works .&#10;Cyryllyc symbols are not written properly in db.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connect2db.php" beforeDir="false" afterPath="$PROJECT_DIR$/connect2db.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/registration.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569234709464</updated>
-      <workItem from="1569234719575" duration="11650000" />
+      <workItem from="1569234719575" duration="14560000" />
     </task>
+    <task id="LOCAL-00001" summary="It works a little.&#10;Cyryllyc symbols are not written properly in db.">
+      <created>1569251322356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569251322356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
